@@ -49,19 +49,19 @@ A curated collection of CppCon's "Back to Basics" track talks, designed to cover
 | Talk | Presenter | Duration |
 |:-----|:----------|:--------:|
 | [C++ API Design](https://www.youtube.com/watch?v=zL-vn_pGGgY) | Jason Turner | 1:00:42 |
-| [C++ Move Semantics](https://www.youtube.com/watch?v=knEaMpytRMA) | Andreas Fertig | 1:02:06 |
-| [C++ Smart Pointers](https://www.youtube.com/watch?v=YokY6HzLkXs) | David Olsen | 0:49:07 |
-| [C++ Testing](https://www.youtube.com/watch?v=SAM4rWaIvUQ) | Amir Kirsh | 1:02:04 |
-| [Cpp Value Semantics](https://www.youtube.com/watch?v=G9MxNwUoSt0) | Klaus Iglberger | 0:48:28 |
-| [Debugging in C++](https://www.youtube.com/watch?v=YzIBwqWC6EM) | Mike Shah | 1:01:19 |
-| [Declarations in C++](https://www.youtube.com/watch?v=IK4GhjmSC6w) | Ben Saks | 1:03:28 |
-| [Master C++ Value Categories](https://www.youtube.com/watch?v=tH0Z2OvHAd8) | Inbal Levi | 0:51:29 |
-| [Name Lookup and Overload Resolution](https://www.youtube.com/watch?v=iDX2d7poJnI) | Mateusz Pusz | 1:02:28 |
-| [Object-Oriented Programming in C++](https://www.youtube.com/watch?v=_go74QpFPAw) | Amir Kirsh | 1:00:19 |
-| [RAII in C++](https://www.youtube.com/watch?v=Rfu06XAhx90) | Andre Kostur | 0:44:17 |
-| [Standard Library Containers](https://www.youtube.com/watch?v=ZMUKa2kWtTk) | Rainer Grimm | 1:04:19 |
 | [Templates in C++](https://www.youtube.com/watch?v=HqsEHG0QJXU) | Nicolai Josuttis | 1:01:50 |
+| [Debugging in C++](https://www.youtube.com/watch?v=YzIBwqWC6EM) | Mike Shah | 1:01:19 |
+| [C++ Smart Pointers](https://www.youtube.com/watch?v=YokY6HzLkXs) | David Olsen | 0:49:07 |
+| [Cpp Value Semantics](https://www.youtube.com/watch?v=G9MxNwUoSt0) | Klaus Iglberger | 0:48:28 |
+| [C++ Move Semantics](https://www.youtube.com/watch?v=knEaMpytRMA) | Andreas Fertig | 1:02:06 |
+| [RAII in C++](https://www.youtube.com/watch?v=Rfu06XAhx90) | Andre Kostur | 0:44:17 |
 | [The C++ Core Guidelines](https://www.youtube.com/watch?v=UONLB7wBVSc) | Rainer Grimm | 1:02:34 |
+| [Object-Oriented Programming in C++](https://www.youtube.com/watch?v=_go74QpFPAw) | Amir Kirsh | 1:00:19 |
+| [C++ Testing](https://www.youtube.com/watch?v=SAM4rWaIvUQ) | Amir Kirsh | 1:02:04 |
+| [Master C++ Value Categories](https://www.youtube.com/watch?v=tH0Z2OvHAd8) | Inbal Levi | 0:51:29 |
+| [Declarations in C++](https://www.youtube.com/watch?v=IK4GhjmSC6w) | Ben Saks | 1:03:28 |
+| [Standard Library Containers](https://www.youtube.com/watch?v=ZMUKa2kWtTk) | Rainer Grimm | 1:04:19 |
+| [Name Lookup and Overload Resolution](https://www.youtube.com/watch?v=iDX2d7poJnI) | Mateusz Pusz | 1:02:28 |
 
 ---
 
@@ -71,26 +71,26 @@ A curated collection of CppCon's "Back to Basics" track talks, designed to cover
 
 | Talk | Presenter | Duration |
 |:-----|:----------|:--------:|
-| [Algorithmic Complexity](https://www.youtube.com/watch?v=AY2FqpDCBGs) | Amir Kirsh, Adam Segoli Schubert | 0:55:09 |
-| [Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) | Brian Ruth | 0:45:26 |
-| [Classic STL](https://www.youtube.com/watch?v=tXUXl_RzkAk) | Bob Steagall | 1:01:31 |
-| [Compiling and Linking](https://www.youtube.com/watch?v=cpkDQaYttR4) | Ben Saks | 1:03:19 |
-| [Concurrency](https://www.youtube.com/watch?v=pfIC-kle4b0) | Mike Shah | 1:02:07 |
+| [Move Semantics](https://www.youtube.com/watch?v=Bt3zcJZIalk) | Nicolai Josuttis | 1:03:58 |
+| [Overload Resolution](https://www.youtube.com/watch?v=b5Kbzgx1w9A) | Ansel Sermersheim, Barbara Geller | 1:04:51 |
 | [const and constexpr](https://www.youtube.com/watch?v=tA6LbPyYdco) | Rainer Grimm | 1:01:35 |
-| [Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) | Bob Steagall | 1:04:52 |
+| [Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) | Ansel Sermersheim, Barbara Geller | 1:02:07 |
+| [Object-Oriented Programming](https://www.youtube.com/watch?v=Ou5WsJzn7Ws) | Rainer Grimm | 0:59:54 |
+| [Lambdas](https://www.youtube.com/watch?v=IgNUBw3vcO4) | Nicolai Josuttis | 1:05:21 |
+| [Compiling and Linking](https://www.youtube.com/watch?v=cpkDQaYttR4) | Ben Saks | 1:03:19 |
+| [Down the Rabbit Hole](https://www.youtube.com/watch?v=9Tx97HeGnUQ) | Marshall Clow | 1:00:46 |
 | [Designing Classes - Part 1](https://www.youtube.com/watch?v=motLOioLJfg) | Klaus Iglberger | 1:01:03 |
 | [Designing Classes - Part 2](https://www.youtube.com/watch?v=O65lEiYkkbc) | Klaus Iglberger | 1:02:25 |
-| [Down the Rabbit Hole](https://www.youtube.com/watch?v=9Tx97HeGnUQ) | Marshall Clow | 1:00:46 |
-| [Lambdas](https://www.youtube.com/watch?v=IgNUBw3vcO4) | Nicolai Josuttis | 1:05:21 |
-| [Move Semantics](https://www.youtube.com/watch?v=Bt3zcJZIalk) | Nicolai Josuttis | 1:03:58 |
-| [Object-Oriented Programming](https://www.youtube.com/watch?v=Ou5WsJzn7Ws) | Rainer Grimm | 0:59:54 |
-| [Overload Resolution](https://www.youtube.com/watch?v=b5Kbzgx1w9A) | Ansel Sermersheim, Barbara Geller | 1:04:51 |
 | [Pointers](https://www.youtube.com/watch?v=0zd8eznWv4k) | Mike Shah | 1:00:20 |
-| [Smart Pointers and RAII](https://www.youtube.com/watch?v=07rJOzFRs6M) | Inbal Levi | 0:50:16 |
+| [Concurrency](https://www.youtube.com/watch?v=pfIC-kle4b0) | Mike Shah | 1:02:07 |
 | [Templates - Part 1](https://www.youtube.com/watch?v=XN319NYEOcE) | Bob Steagall | 1:01:12 |
 | [Templates - Part 2](https://www.youtube.com/watch?v=2Y9XbltAfXs) | Bob Steagall | 1:07:29 |
 | [The Special Member Functions](https://www.youtube.com/watch?v=9BM5LAvNtus) | Klaus Iglberger | 1:02:15 |
-| [Undefined Behavior](https://www.youtube.com/watch?v=NpL9YnxnOqM) | Ansel Sermersheim, Barbara Geller | 1:02:07 |
+| [Classic STL](https://www.youtube.com/watch?v=tXUXl_RzkAk) | Bob Steagall | 1:01:31 |
+| [Casting](https://www.youtube.com/watch?v=2h2hdRqRIRk) | Brian Ruth | 0:45:26 |
+| [Debugging Techniques](https://www.youtube.com/watch?v=M7fV-eQwxrY) | Bob Steagall | 1:04:52 |
+| [Smart Pointers and RAII](https://www.youtube.com/watch?v=07rJOzFRs6M) | Inbal Levi | 0:50:16 |
+| [Algorithmic Complexity](https://www.youtube.com/watch?v=AY2FqpDCBGs) | Amir Kirsh, Adam Segoli Schubert | 0:55:09 |
 
 ---
 
@@ -100,20 +100,20 @@ A curated collection of CppCon's "Back to Basics" track talks, designed to cover
 
 | Talk | Presenter | Duration |
 |:-----|:----------|:--------:|
-| [Algebraic Data Types](https://www.youtube.com/watch?v=OJzmWqCCZaM) | Arthur O'Dwyer | 1:10:15 |
-| [Class Layout](https://www.youtube.com/watch?v=SShSV_iV1Ko) | Stephen Dewhurst | 1:00:27 |
-| [Concurrency](https://www.youtube.com/watch?v=F6Ipn7gCOsY) | Arthur O'Dwyer | 1:04:28 |
-| [Design Patterns](https://www.youtube.com/watch?v=2UUqX2eIdSM) | Mike Shah | 0:48:15 |
-| [Exceptions](https://www.youtube.com/watch?v=0ojB8c0xUd8) | Klaus Iglberger | 1:01:45 |
-| [Lambda Expressions](https://www.youtube.com/watch?v=ZIPNFcw6V9o) | Barbara Geller, Ansel Sermersheim | 1:01:19 |
-| [Move Semantics](https://www.youtube.com/watch?v=ZG59Bqo7qX4) | David Olsen | 0:59:08 |
-| [Pointers and Memory](https://www.youtube.com/watch?v=rqVWj0aVSxg) | Ben Saks | 1:00:56 |
-| [Smart Pointers](https://www.youtube.com/watch?v=sQCSX7vmmKY) | Rainer Grimm | 1:07:26 |
-| [Templates - Part 1](https://www.youtube.com/watch?v=VNJ4wiuxJM4) | Andreas Fertig | 1:04:45 |
-| [Templates - Part 2](https://www.youtube.com/watch?v=0dtjDTEE0hQ) | Andreas Fertig | 1:03:10 |
 | [The Abstract Machine](https://www.youtube.com/watch?v=ZAji7PkXaKY) | Bob Steagall | 0:57:07 |
 | [The Structure of a Program](https://www.youtube.com/watch?v=3KoXeegncrs) | Bob Steagall | 1:01:37 |
+| [Class Layout](https://www.youtube.com/watch?v=SShSV_iV1Ko) | Stephen Dewhurst | 1:00:27 |
+| [Pointers and Memory](https://www.youtube.com/watch?v=rqVWj0aVSxg) | Ben Saks | 1:00:56 |
+| [Templates - Part 1](https://www.youtube.com/watch?v=VNJ4wiuxJM4) | Andreas Fertig | 1:04:45 |
+| [Templates - Part 2](https://www.youtube.com/watch?v=0dtjDTEE0hQ) | Andreas Fertig | 1:03:10 |
+| [Lambda Expressions](https://www.youtube.com/watch?v=ZIPNFcw6V9o) | Barbara Geller, Ansel Sermersheim | 1:01:19 |
 | [Unit Tests](https://www.youtube.com/watch?v=_OHE33s7EKw) | Ben Saks | 1:01:56 |
+| [Algebraic Data Types](https://www.youtube.com/watch?v=OJzmWqCCZaM) | Arthur O'Dwyer | 1:10:15 |
+| [Smart Pointers](https://www.youtube.com/watch?v=sQCSX7vmmKY) | Rainer Grimm | 1:07:26 |
+| [Design Patterns](https://www.youtube.com/watch?v=2UUqX2eIdSM) | Mike Shah | 0:48:15 |
+| [Move Semantics](https://www.youtube.com/watch?v=ZG59Bqo7qX4) | David Olsen | 0:59:08 |
+| [Exceptions](https://www.youtube.com/watch?v=0ojB8c0xUd8) | Klaus Iglberger | 1:01:45 |
+| [Concurrency](https://www.youtube.com/watch?v=F6Ipn7gCOsY) | Arthur O'Dwyer | 1:04:28 |
 
 ---
 
@@ -123,19 +123,19 @@ A curated collection of CppCon's "Back to Basics" track talks, designed to cover
 
 | Talk | Presenter | Duration |
 |:-----|:----------|:--------:|
-| [Const as a Promise](https://www.youtube.com/watch?v=NZtr93iL3R0) | Dan Saks | 1:01:34 |
+| [Object-Oriented Programming](https://www.youtube.com/watch?v=32tDTD9UJCE) | Jon Kalb | 0:59:59 |
+| [Function and Class Templates](https://www.youtube.com/watch?v=LMP_sxOaz6g) | Dan Saks | 1:03:12 |
+| [RAII and the Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ) | Arthur O'Dwyer | 1:02:18 |
+| [Type Erasure](https://www.youtube.com/watch?v=tbUCHifyT24) | Arthur O'Dwyer | 0:49:16 |
 | [Everyday Efficiency: In-Place Construction](https://www.youtube.com/watch?v=oTMSgI1XjF8) | Ben Deane | 1:02:17 |
 | [Exception Handling and Exception Safety](https://www.youtube.com/watch?v=W6jZKibuJpU) | Ben Saks | 1:01:30 |
-| [Function and Class Templates](https://www.youtube.com/watch?v=LMP_sxOaz6g) | Dan Saks | 1:03:12 |
 | [Lambdas from Scratch](https://www.youtube.com/watch?v=3jCOwajNch0) | Arthur O'Dwyer | 0:52:09 |
+| [Smart Pointers](https://www.youtube.com/watch?v=xGDLkt-jBJ4) | Arthur O'Dwyer | 1:00:51 |
+| [Understanding Value Categories](https://www.youtube.com/watch?v=XS2JddPq7GQ) | Ben Saks | 0:53:48 |
 | [Move Semantics - Part 1](https://www.youtube.com/watch?v=St0MNEU5b0o) | Klaus Iglberger | 0:55:17 |
 | [Move Semantics - Part 2](https://www.youtube.com/watch?v=pIzaZbKUw2s) | Klaus Iglberger | 0:53:49 |
-| [Object-Oriented Programming](https://www.youtube.com/watch?v=32tDTD9UJCE) | Jon Kalb | 0:59:59 |
-| [RAII and the Rule of Zero](https://www.youtube.com/watch?v=7Qgd9B1KuMQ) | Arthur O'Dwyer | 1:02:18 |
-| [Smart Pointers](https://www.youtube.com/watch?v=xGDLkt-jBJ4) | Arthur O'Dwyer | 1:00:51 |
 | [Test-driven Development](https://www.youtube.com/watch?v=RoYljVOj2H8) | Fedor Pikus | 1:01:03 |
-| [Type Erasure](https://www.youtube.com/watch?v=tbUCHifyT24) | Arthur O'Dwyer | 0:49:16 |
-| [Understanding Value Categories](https://www.youtube.com/watch?v=XS2JddPq7GQ) | Ben Saks | 0:53:48 |
+| [Const as a Promise](https://www.youtube.com/watch?v=NZtr93iL3R0) | Dan Saks | 1:01:34 |
 | [Virtual Dispatch and its Alternatives](https://www.youtube.com/watch?v=jBnIMEb2GhA) | Inbal Levi | 0:40:13 |
 
 ---
