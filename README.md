@@ -1,6 +1,7 @@
 # CppCon - Back to Basics
 
 A curated collection of CppCon's "Back to Basics" track talks, designed to cover fundamental C++ concepts from first principles.
+
 ---
 
 ## 2024
